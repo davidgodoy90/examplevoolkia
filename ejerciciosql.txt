@@ -1,0 +1,10 @@
+
+MIN (SELECT Costo FROM Costos WHERE Zona = 'AMBA')
+
+SELECT Cantidad de envios FROM CANTIDAD_DE_ENVIOS WHERE Zona = 'AMBA' 
+
+Multiplicar el monto minimo por la cantidad de cada zona.
+
+La segunda parte del ejercicio no la pude realizar, ya que supe como resolverlo.
+
+Aclaración: en la tabla cantidad de envios no puede llevar tildes.

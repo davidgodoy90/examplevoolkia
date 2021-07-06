@@ -1,0 +1,4 @@
+En la primer linea dentro del array indicamos con que programa se ejecuta,
+en la segunda linea desde que ubicacion se abre,
+en la tercera linea se indica la ubicacion de la url,
+en la cuarta linea el usuario que deseamos utilizar

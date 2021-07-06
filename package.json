@@ -1,0 +1,16 @@
+{
+  "name": "junior",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ejemplo.js",
+  "dependencies": {
+    "request": "^2.88.2",
+    "w3c-xmlhttprequest": "^3.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
